@@ -1,16 +1,33 @@
+@font-face {
+    font-family: "Boba Milky";
+    src: url("Boba Milky.ttf");
+}
+
 .dark-background-color
 {
     background-color: #1F2937;
+    display: flex;
+    padding-left: 250px;
+    padding-right: 250px;
 }
 
 .header-logo-text
 {
+    display: flex;
+    font-family: "Boba Milky", sans-serif;
     font-size: 24px;
     color: #F9FAF8;
+    width: 80%;
+    padding: 20px;
 }
 
 .header-link-text
 {
+    display: flex;
+    font-family: "Boba Milky", sans-serif;
     font-size: 18px;
     color: #E5E7EB;
+    width: 50%;
+    padding: 20px;
+    justify-content: space-around;
 }
