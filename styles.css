@@ -1,33 +1,119 @@
-@font-face {
-    font-family: "Boba Milky";
-    src: url("Boba Milky.ttf");
-}
+
 
 .dark-background-color
 {
     background-color: #1F2937;
+    padding-left: 270px;
+    padding-right: 270px;
+    outline: dotted red;
+}
+
+.header
+{
     display: flex;
-    padding-left: 250px;
-    padding-right: 250px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .header-logo-text
 {
     display: flex;
-    font-family: "Boba Milky", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 24px;
+    font-weight: bold;
     color: #F9FAF8;
     width: 80%;
-    padding: 20px;
+    outline: dotted red;
 }
 
 .header-link-text
 {
     display: flex;
-    font-family: "Boba Milky", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 18px;
     color: #E5E7EB;
     width: 50%;
-    padding: 20px;
-    justify-content: space-around;
+    justify-content: space-between;
+    outline: dotted red;
+}
+
+.hero
+{
+    display: flex;
+    margin-top: 100px;
+    outline: dotted red;
+}
+
+.hero-text
+{
+    width: 50%;
+}
+
+.hero-main-text
+{
+    font-family: "Roboto", sans-serif;
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.hero-secondary-text
+{
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    color: #E5E7EB;
+    padding-right: 100px;
+    padding-bottom: 15px;
+}
+
+.photo
+{
+    display: flex;
+    width: 50%;
+    height: 100%;
+    outline: dotted red;
+}
+
+img
+{
+    width: 100%;
+    height: auto;
+    padding-bottom: 70px;
+}
+
+button
+{
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: none;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.white-background-color
+{
+    padding-top: 70px;
+    outline: dotted red;
+}
+
+.information-header
+{
+    font-family: "Roboto", sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    text-align: center;
+    outline: dotted red;
+    margin-bottom: 70px;
+}
+
+.information
+{
+    text-align: center;
 }
