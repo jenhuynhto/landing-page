@@ -7,5 +7,5 @@ Practice with HTML and CSS
 **Tech used:** HTML, CSS
 
 ## Credit:
-For Image:
+Image:
 - https://www.reddit.com/r/rilakkuma/comments/epchlx/daily_korilakkuma_photo_201/
