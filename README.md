@@ -5,3 +5,7 @@ Practice with HTML and CSS
 
 ## How It's Made:
 **Tech used:** HTML, CSS
+
+## Credit:
+For Image:
+- https://www.reddit.com/r/rilakkuma/comments/epchlx/daily_korilakkuma_photo_201/
